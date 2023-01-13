@@ -1,3 +1,3 @@
 ## VFS架构
 
-![vfs architecture](images/vfs_arc.png)
+<img src="images/vfs_arc.png" width="600px" />
