@@ -7,7 +7,7 @@
 * Linux中一切皆文件，不仅普通的文件和目录，块设备、管道、socket等都是以文件形式来管理。
 * 在文件系统种，每个文件都包括两个重要的数据结构：索引项(index node)和目录项(directory entry)，分别被用来记录文件的元信息和目录层次结构。
     - Inode:
-        ```C
+        ```C++
         struct ext4_inode {
             __le16  i_mode;         /* File mode */
             __le16  i_uid;          /* Low 16 bits of Owner Uid */
