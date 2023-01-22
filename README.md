@@ -5,3 +5,5 @@
 - 使用对用户透明，但是如果涉及调优则必须关心底层细节
 
 <img src="images/linux_io_stack_diagram.jpg" width="900px" />
+
+参考：https://fio.readthedocs.io/en/latest/
